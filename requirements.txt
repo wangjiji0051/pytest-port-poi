@@ -1,0 +1,10 @@
+pytest~=8.4.1
+pytest-html
+pytest-xdist
+pytest-ordering
+pytest-rerunfailures
+pytest-base-url
+allure-pytest
+requests~=2.32.3
+jsonpath~=0.82.2
+base~=0.0.0
